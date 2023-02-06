@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    margin: 0% 35%;
+    text-align: center;
+}
+
+.container{
+    border: 1px solid ;
+    width: 80%;
+    padding: 15%;
+    background-color: brown;
+}
+
+.form{
+    display: flex;
+    margin: 0% 10%;
+    padding: 5%;
+    background-color: blue;
+    width: 70%;
+}
+
+label{
+    display: table-cell;
+    color: snow;
+}
+
+input{
+    display: table-cell;
+}
+
+.input{
+    padding-left: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
